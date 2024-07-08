@@ -1,0 +1,21 @@
+@charset "UTF-8";
+ .container{
+    background-color: #BBDEFB;
+    height: 302px;
+width:200px;
+ }
+ .email{
+   height:30px;
+   width:200px;
+   margin-left:100px;	
+}
+.password{
+height:30px;
+   width:200px;
+   margin-left:100px;		
+}
+.submit{
+height:30px;
+   width:200px;
+   margin-left:100px;		
+}

@@ -1,0 +1,56 @@
+@charset "UTF-8";
+.container{
+	height: 431px;
+	width:356px;
+	margin-left:430px;
+	background-color:yellow;
+	border-radius:10px;
+	
+}
+#h{
+	  color: red;
+    font-style: italic;
+    font-size: 48px;
+    margin-left:424px;
+}
+.name{
+	margin-left: 37px;
+	height: 30px;
+	width: 200px;
+	margin-top: 25px;
+	
+}
+.email{
+	margin-left:37px;
+	height:30px;
+	width:200px;
+	margin-top:20px;
+}
+.password{
+	margin-left:15px;
+	height:30px;
+	width:200px;
+	margin-top:20px;
+}
+.address{
+	margin-left:25px;
+	height:30px;
+	width:200px;
+	margin-top:20px;
+}
+.place{
+	margin-left:43px;
+	height:30px;
+	width:200px;
+	margin-top:20px;
+}
+.phoneno{
+	margin-left:16px;
+	height:30px;
+	width:200px;
+	margin-top:20px;
+}
+.submit{
+	margin-left:149px;
+	margin-top:25px;
+}

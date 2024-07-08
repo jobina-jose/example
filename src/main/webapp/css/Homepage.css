@@ -1,0 +1,39 @@
+/* Homepage.css */
+@charset "UTF-8";
+
+.container2 {
+  background-image: url("../images/event.jpeg");
+  height: 500px;
+  width: 700px;
+  background-repeat: no-repeat;
+  margin-left: 903px;
+  margin-top: -200px;
+}
+.container{
+	background-color:"blue";
+}
+
+.meeting {
+  height: 30px;
+  width: 200px;
+  margin-top: -11px;
+  margin-left: 1280px;
+}
+
+.event {
+  text-align: center;
+  font-size: 80px;
+  font-style: Arial;
+  margin-top: 66px;
+  color: aliceblue;
+}
+
+.p {
+  text-align: center;
+  font-size: 30px;
+  color: aliceblue;
+}
+
+	
+
+
